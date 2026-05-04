@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         saludar();
-        int resultado = 5 + 3;
+        int resultado = 11 + 3;
         System.out.println("Suma: " + resultado);
     }
 
